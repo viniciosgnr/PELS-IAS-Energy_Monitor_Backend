@@ -40,8 +40,8 @@ Authentication Flow uses `json web tokens` via Passport library - `passport-jwt`
 **Step #1** - Clone the project
 
 ```bash
-$ git clone https://github.com/app-generator/api-server-nodejs.git
-$ cd api-server-nodejs
+$ git clone https://github.com/viniciosgnr/PELS-IAS-Energy_Monitor_Backend.git
+$ cd PELS-IAS-Energy_Monitor_Backend
 ```
 
 **Step #2** - Install dependencies via NPM or Yarn
